@@ -8,7 +8,6 @@ uploads/
 intermediate/
 input/
 *.pdf
-Results/
 *.pth
 *.son
 *.avi
