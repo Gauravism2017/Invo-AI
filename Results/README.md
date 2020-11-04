@@ -2,8 +2,8 @@
 
 ## Demo Result
 
-* Parsing of Sample Invoice uploaded as scanned pdf [https://github.com/AyushSomani001/Digital_Invoicing_Grid2.0/blob/master/Results/sample11.pdf] <br>
-* Output XLS Table Stored [https://github.com/AyushSomani001/Digital_Invoicing_Grid2.0/blob/master/Results/sample11.xlsx]
+* Parsing of Sample Invoice uploaded as scanned pdf [https://github.com/Gauravism2017/Invo-AI/blob/master/Results/sample11.pdf] <br>
+* Output XLS Table Stored [https://github.com/Gauravism2017/Invo-AI/blob/master/Results/sample11.xlsx]
 
 
 ## Intermediate Table Processing

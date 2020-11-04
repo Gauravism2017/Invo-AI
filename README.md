@@ -3,17 +3,17 @@ We propose an extraction system that use knowledge of the types of the target fi
 
 
 ### AUTHOR CONTRIBUTIONS
-> Subject: &nbsp; &emsp; &emsp; &nbsp;**Flipkart Grid 2.0** <br>
+> Subject: &nbsp; &emsp; &emsp; &nbsp;**Invo-AI** <br>
 > Topic:&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp;**Electronic Invoicing using Image Processing** <br>
-> Assignment: &emsp;  **Source Code (Round 3)** <br>
-> Authors:&ensp; &ensp; &emsp; &nbsp; **AYUSH SOMANI, GAURAV KUMAR, GYANENDRA DAS** <br>
+> Assignment: &emsp;  **Source Code (Final Presentation)** <br>
+> Authors:&ensp; &ensp; &emsp; &nbsp; **GAURAV KUMAR, AYUSH SOMANI, GYANENDRA DAS** <br>
 > Date: &ensp; &ensp; &emsp; &emsp; &nbsp; July 8,2020  <br>
 <figure>
-  <img src='Team The_Nomads.jpg' align="center"/> 
+  <img src='screen.png' align="center"/> 
 </figure>
 <br>
 
-## Developing an Deep Learning based Automatic Invoice Extraction system using Python <br>
+## Developing an Automatic Invoice Extraction system using Python <br>
 
 # Features!
 
